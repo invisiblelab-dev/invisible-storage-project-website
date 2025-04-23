@@ -11,6 +11,8 @@ permalink: /
 
 ### Mission
 
+### Team
+
 The project aims to develop a **modular hybrid architecture** that combines the strengths of **blockchain technology** (for data integrity, security, and availability) with **traditional storage systems and cloud computing** (for performance and scalability). The key goals are:
 
 - Solve limitations of current blockchain systems for storing large volumes of data.
