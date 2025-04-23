@@ -1,115 +1,59 @@
-<footer class="d-print-none">
+<footer style="color:black">
   <div class="container">
     <div class="row">
-      {% if site.social %}
-        <div class="col-lg">
-          <ul class="list-inline">
-            {% if site.social.email %}
-              <li class="list-inline-item mb-2">
-                <a href="mailto:{{ site.social.email }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-regular fa-envelope fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
+    <!--  <div class="col-lg">
+        <ul class="list-inline">
+          {% if site.email %}
+            <li class="list-inline-item">
+              <a href="mailto:{{ site.email }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          {% endif %}
 
-            {% if site.social.bluesky %}
-              <li class="list-inline-item mb-2">
-                <a href="https://bsky.app/profile/{{ site.social.bluesky }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
+          {% if site.twitter_username %}
+            <li class="list-inline-item">
+              <a href="https://twitter.com/{{ site.twitter_username }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          {% endif %}
 
-            {% if site.social.mastodon %}
-              <li class="list-inline-item mb-2">
-                <a rel="me" href="{{ site.social.mastodon }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-brands fa-mastodon fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.social.twitter %}
-              <li class="list-inline-item mb-2">
-                <a href="https://twitter.com/{{ site.social.twitter }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-brands fa-x-twitter fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.social.linkedin %}
-              <li class="list-inline-item mb-2">
-                <a href="{{ site.social.linkedin }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-brands fa-linkedin fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.social.facebook %}
-              <li class="list-inline-item mb-2">
-                <a href="{{ site.social.facebook }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-brands fa-facebook fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.social.github %}
-              <li class="list-inline-item mb-2">
-                <a href="https://github.com/{{ site.social.github }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-brands fa-github fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.archive_permalink %}
-              <li class="list-inline-item mb-2">
-                <a href="{{ '/feed.xml' | absolute_url }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa-solid fa-circle fa-stack-2x"></i>
-                    <i class="fa-solid fa-rss fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {% endif %}
-          </ul>
-        </div>
-      {% endif %}
+          {% if site.github_username %}
+            <li class="list-inline-item">
+              <a href="https://github.com/{{ site.github_username }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          {% endif %}
+        </ul>
+      </div>-->
 
       {% for col in site.data.footer.columns %}
-        <div class="col-lg">
-          {{ col.description | markdownify }}
+      <div class="col-lg">
+        {{ col.description | markdownify }}
 
-          {% if col.links %}
-            <ul class="fa-ul">
-              {% for item in col.links %}
-                <li>
-                  <i class="fa-li fa fa-chevron-circle-right"></i>
-                  <a href="{{ item.href | relative_url }}"{% if item.new_window %} target="_blank"{% endif %}>{{ item.text }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </div>
+        {% if col.links %}
+          <ul class="fa-ul">
+          {% for item in col.links %}
+            <li>
+              <i class="fa-li fa fa-chevron-circle-right"></i>
+              <a href="{{ item.href | relative_url}}" {% if item.new_window %}target="_blank"{% endif %} >{{ item.text }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+
+      </div>
       {% endfor %}
     </div>
 
@@ -118,25 +62,17 @@
         <p>© {{ site.author }}</p>
       {% endif %}
       {% if site.data.footer.license %}
-        {{ site.data.footer.license | markdownify }}
-      {% endif %}
-      {% if site.github_edit %}
-        {% if site.github_edit contains '' %}
-          {% assign branch = site.github_edit %}
-        {% else %}
-          {% assign branch = 'main' %}
-        {% endif %}
-        <p>
-          <a href="{{ site.github.repository_url }}/edit/{{ branch }}/{{ page.path }}">
-            <i class="fa-solid fa-pen-to-square"></i> Edit this page
-          </a>
-        </p>
+        {{ site.data.footer.license | markdownify }}
       {% endif %}
     </div>
   </div>
 </footer>
 
+<script src="{{ '/assets/theme/js/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/theme/js/popper.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/theme/js/bootstrap.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/theme/js/anchor.min.js' | relative_url }}"></script>
+
 <script>
   // Show anchors when hovering over headings, using anchor.js
   (function () {
@@ -145,3 +81,31 @@
     anchors.add(headings);
   })();
 </script>
+
+{% if page.layout == 'archive' %}
+<script>
+  // Filter cards on ?category=value
+  $(document).ready(function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    
+    if (urlParams.has("category") && urlParams.get("category") != "") {
+      const category = urlParams.get("category"); // Will return 1st category value + decode URI
+      const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
+      
+      $(".card").each(function() {
+        const cardCategories = $(this).data("categories").split("|");
+        // Hide card if it does not contain the selected category
+        if (!cardCategories.includes(cleanCategory)) {
+          $(this).parent().addClass("d-none");
+        }
+      });
+
+      $(".jumbotron .categories").append(
+        '<a class="badge badge-pill" href="{{ site.archive_permalink | relative_url }}">' + 
+        category + '<span class="close">&times;</span>' + 
+        '</a>'
+      );
+    }
+  });
+</script>
+{% endif %}

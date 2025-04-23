@@ -1,38 +1,30 @@
 // Theme overrides for Bootstrap variables
 // 
-// Compare with bootstrap/_variables.scss
-// Only include variables that are overwritten
+// Only include variables that are overriden
 // or variables (indicated with !default) that are referred by other variables.
+// For all Bootstrap variables, see https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
 
 // Color system
 
-$primary: $custom_link_color;
-$secondary: $custom_banner_color;
-$footer: $custom_footer_color; // Theme variable
+$theme-colors: (
+  "primary": $custom_link_color,
+  "secondary": $custom_banner_color,
+  "footer": #F0F0F0
+);
 
-// Characters which are escaped by the escape-svg function
 // Options
-// Prefix for :root CSS variables
-// Gradient
 // Spacing
 
 $spacer: 1rem !default;
 
-// Position
 // Body
-// Utilities maps
 // Links
-
-$link-decoration: none;
-$link-hover-decoration: underline;
-
 // Paragraphs
 // Grid breakpoints
 // Grid containers
 // Grid columns
-// Container padding
 // Components
-// Typography
+// Fonts
 
 $font-family-base: "Roboto", sans-serif;
 
@@ -48,9 +40,8 @@ $headings-margin-bottom: $spacer;
 // Navbar
 // Dropdowns
 // Pagination
-// Placeholders
+// Jumbotron
 // Cards
-// Accordion
 // Tooltips
 // Popovers
 // Toasts
@@ -68,5 +59,6 @@ $badge-font-weight: normal;
 // Carousel
 // Spinners
 // Close
-// Offcanvas
 // Code
+// Utilities
+// Printing

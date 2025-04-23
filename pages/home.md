@@ -1,25 +1,21 @@
 ---
 layout: home
 title: <img src="/assets/img/logo2.png" alt="drawing" width="250">
-description: <p style="font-size:22px;">BCD.S+M - Modular Blockchain Data Storage and Management System with AI</p>
+description: <p style="font-size:22px;">Programmable and Adaptable Storage for AI-oriented HPC Ecosystems</p>
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-
-# TEAM 
-
 ### Mission
 
-### Team
+High-Performance Computing (HPC) services are increasingly sought to meet the demands of Artificial Intelligence (AI) applications. While the processing capabilities offered by HPC infrastructures can scale and handle the computational requirements of AI applications, the same does not hold true for the storage counterpart. Indeed, shared storage architectures quickly become a performance bottleneck when used by multiple instances of data-centric applications. 
 
-The project aims to develop a **modular hybrid architecture** that combines the strengths of **blockchain technology** (for data integrity, security, and availability) with **traditional storage systems and cloud computing** (for performance and scalability). The key goals are:
+The PAStor project aims at providing a novel Software-Defined Storage (SDS) solution for HPC that can efficiently handle I/O flows from multiple AI workloads by automatically adjusting storage configurations and resources to dynamically meet application requirements. The proposed solution will be crucial to address the aforementioned storage performance bottleneck and fairness challenges of HPC infrastructures.  The research output from PAStor will be released as an open-source prototype that will provide the first building block towards a novel storage architecture suited for the exascale computing infrastructure.
 
-- Solve limitations of current blockchain systems for storing large volumes of data.
-- Ensure **ease of use, installation, and maintenance** by integrating **Artificial Intelligence (AI)** to automate system configuration and adapt to different needs.
-- Promote **adoption of secure, decentralized, and efficient data storage solutions**, especially for sensitive or regulated data (e.g., in healthcare or public administration).
+By gathering the expertise of [INESC TEC](https://www.inesctec.pt/en) and [Hood College](https://www.hood.edu) researchers in the AI and distributed storage fields, and by including researchers from [TACC](https://www.tacc.utexas.edu) and [MACC](https://macc.fccn.pt) with experience on managing HPC infrastructures, the project will produce new high quality research findings and advance the state-of-the-art for storage solutions currently deployed at HPC centers. 
 
-This solution seeks to bridge the gap between blockchain potential and practical, large-scale applications.
-
+---
 
 ### News and Events
+
+

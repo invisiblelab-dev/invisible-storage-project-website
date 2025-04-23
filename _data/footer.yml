@@ -3,23 +3,24 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-      new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
-      new_window: true
+  - description: >
+      [<img src="/assets/img/inesc.png" alt="drawing" width="160">](https://www.inesctec.pt/en)
+      [<img src="/assets/img/tacc.png" alt="drawing" width="110"><br><br>](https://www.tacc.utexas.edu)
+      &nbsp;&nbsp;&nbsp;[<img src="/assets/img/macc.png" alt="drawing" width="130">](https://macc.fccn.pt)
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      [<img src="/assets/img/hood.png" alt="drawing" width="110"><br><br>](https://www.hood.edu)
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
-    links:
+      This work is funded by National Funds through the FCT - Fundação para a Ciência e a Tecnologia (Portuguese Foundation for Science and Technology) within project UTA-EXPL/CA/0075/2019.
+      <br><img src="/assets/img/fct.png" alt="drawing" width="60"><img src="/assets/img/pt.png" alt="drawing" width="120"><img src="/assets/img/utaustinpt.png" alt="drawing" width="120">
+     
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
-  Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish)
+  Content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/" style="color:black">CC BY 4.0 License</a>.
+  \| Theme: 
+  <a href="https://github.com/peterdesmet/petridish" style="color:black">Petridish</a>.
+  <br>
+  Google Analytics is used to improve the website. The privacy terms are available at 
+  <a href="www.google.com/policies/privacy/partners" style="color:black">http://www.google.com/policies/privacy/partners</a>.

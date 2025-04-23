@@ -1,32 +1,27 @@
 # SITE SETTINGS
-title: Invisible Storage                        # Title in top navigation bar (navbar) and <head>
-author: InvisibleLab.dev                    # Used for copyright statement in footer
-baseurl: "invisible-storage-project-website/"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+title: PAStor                  # Title in top navigation bar (navbar) and <head>
+description: PAStor website # Site description in <head>
+author: João Paulo                  # Used for copyright statement in footer
+url: "https://pastor-project.github.io"  # No slash at the end
+# baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
+                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-social:
-  email: name@example.com
-  bluesky: bluesky_username.bsky.social
-  mastodon: https://mastodon.social/@mastodon_username
-  twitter: twitter_username
-  linkedin: https://linkedin.com/company/project_name/
-  facebook: https://facebook.com/groups/group_id/
-  github: github_username               # Can also be a github_username/repository
-  disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
+#email:                              # Social icon in footer
+#twitter_username:            # Social icon in footer
+#github_username:            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
-archive_permalink: /blog/               # Permalink of page using the archive.html layout, required when using post tags
-github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
+#logo: /assets/img/logo.png  # Logo in navbar, will be displayed with 30px height
 colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
-font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
+  footer: "#F0F0F0"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-logo: /assets/theme/images/petri-dish_1f9eb.png # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -41,16 +36,19 @@ exclude:
   - LICENSE
   - package-lock.json
   - package.json
-  - jekyll-theme-petridish.gemspec
-  - CITATION.cff
+  - petridish.gemspec
+  - vendor
 
 # FRONTMATTER DEFAULTS
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-    values:
-      layout: default                   # Use default.html layout by default for all files
-  - scope:
-      type: posts
+      type: "posts"
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
