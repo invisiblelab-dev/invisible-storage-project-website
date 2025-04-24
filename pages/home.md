@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: home
 title: <img src="/invisible-storage-project-website/assets/img/logo2.png" alt="drawing" width="250">
 description: <p style="font-size:22px;">Programmable and Adaptable Storage for AI-oriented HPC Ecosystems</p>
 background: /assets/img/chuttersnap-146799-unsplash.jpg
