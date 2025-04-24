@@ -3,114 +3,22 @@
 - name: João Paulo
   role: Project Coordinator # Will appear next to name
   image: assets/img/jtpaulo.jpg # Can be external link
-  visible: true
   description: > # Can be Markdown
     [Assistant Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo) at INESC TEC and U. Minho.
 
     - name: Rui Ribeiro
   role: Researcher # Will appear next to name
   image: assets/img/rui.jpg # Can be external link
-  visible: true
   description: > # Can be Markdown
     Researcher at MACC.
-
-- name: Weijia Xu
-  role: Project Coordinator
-  image: assets/img/weijia.jpg
-  visible: false
-  description: >
-    [Research Engineer](https://www.tacc.utexas.edu/about/directory/weijia-xu) at TACC. 
-
-- name: Xinlian Liu
-  role: Researcher
-  image: assets/img/xinlian.jpg
-  visible: false
-  description: >
-    [Associate Professor](https://www.hood.edu/academics/faculty/xinlian-liu) at Hood College.
-
-- name: Ricardo Vilaça
-  role: Co-PI # Will appear next to name
-  image: assets/img/rmv.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    [Researcher](https://rmpvilaca.github.io) at MACC, U. Minho and INESC TEC.
-
-- name: José Pereira
-  role: Researcher # Will appear next to name
-  image: assets/img/jop.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    [Associate Professor](https://www.inesctec.pt/pt/pessoas/jose-orlando-pereira) at U. Minho and INESC TEC.
-
-- name: Ricardo Macedo
-  role: Researcher # Will appear next to name
-  image: assets/img/rgmacedo.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    Phd Student at INESC TEC and U. Minho.
-
-- name: Mariana Miranda
-  role: Researcher # Will appear next to name
-  image: assets/img/mariana.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    PhD Student at INESC TEC and U. Minho.
-
-- name: Cláudia Correia
-  role: Researcher # Will appear next to name
-  image: assets/img/claudia.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    MSc Student INESC TEC and U. Minho.
-
-- name: Marco Dantas
-  role: Researcher # Will appear next to name
-  image: assets/img/marco.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    MSc Student at INESC TEC and U. Minho.
-
-- name: Diogo Ribeiro
-  role: Researcher # Will appear next to name
-  image: assets/img/diogo.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    BSc Student at INESC TEC and U. Minho.
-
-- name: Peter Cui
-  role: Researcher # Will appear next to name
-  image: assets/img/peter.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    Student at TACC / UT Austin.
 
 - name: Rúben Adão
   role: Researcher # Will appear next to name
   image: assets/img/ruben.jpg # Can be external link
-  visible: false
   description: > # Can be Markdown
     BSc Student at INESC TEC and U. Minho.
 
-- name: Pedro Peixoto
-  role: Researcher # Will appear next to name
-  image: assets/img/pedro.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    BSc Student at INESC TEC and U. Minho.
 
-- name: Beatriz Moreira
-  role: Researcher # Will appear next to name
-  image: assets/img/beatriz.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    BSc Student at INESC TEC and U. Minho.
-
-- name: Cece Vu
-  role: Researcher # Will appear next to name
-  image: assets/img/default.jpg # Can be external link
-  visible: false
-  description: > # Can be Markdown
-    Student at TACC / UT Austin.
 
 
 
