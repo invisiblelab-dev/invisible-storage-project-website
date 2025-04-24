@@ -11,6 +11,13 @@
   image: assets/img/jtpaulo.jpg # Can be external link
   description: > # Can be Markdown
     [Assistant Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo) at INESC TEC and U. Minho.
+
+- name: João Paulo
+  role: Project Coordinator
+  image: assets/img/jtpaulo.jpg
+  description: >
+    [Assistant Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo) at INESC TEC and U. Minho.
+
     
 - name: Rúben Adão
   role: Researcher # Will appear next to name
