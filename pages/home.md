@@ -1,18 +1,22 @@
 ---
-layout: home
+layout: Home
 title: <img src="/invisible-storage-project-website/assets/img/logo2.png" alt="drawing" width="250">
 description: <p style="font-size:22px;">Programmable and Adaptable Storage for AI-oriented HPC Ecosystems</p>
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-### Mission
+### Goals
 
-High-Performance Computing (HPC) services are increasingly sought to meet the demands of Artificial Intelligence (AI) applications. While the processing capabilities offered by HPC infrastructures can scale and handle the computational requirements of AI applications, the same does not hold true for the storage counterpart. Indeed, shared storage architectures quickly become a performance bottleneck when used by multiple instances of data-centric applications. 
+One of the biggest challenges for the coming decade lies in how we store and process data. As Artificial Intelligence (AI) systems continue to grow exponentially, their development increasingly depends on the ability to handle vast volumes of data, from ensuring data quality to managing its storage and processing. Despite advancements in AI and distributed systems, finding solutions that balance performance, security, and privacy at scale remains an open and pressing challenge.
 
-The PAStor project aims at providing a novel Software-Defined Storage (SDS) solution for HPC that can efficiently handle I/O flows from multiple AI workloads by automatically adjusting storage configurations and resources to dynamically meet application requirements. The proposed solution will be crucial to address the aforementioned storage performance bottleneck and fairness challenges of HPC infrastructures.  The research output from PAStor will be released as an open-source prototype that will provide the first building block towards a novel storage architecture suited for the exascale computing infrastructure.
+The *Invisible Storage* project aims to address this gap by exploring new approaches to manage large volumes of data efficiently and securely, adapting dynamically to the data's own characteristics and requirements. It seeks to rethink data storage management by targeting the core bottlenecks currently limiting system performance and scalability in data-centric applications.
 
-By gathering the expertise of [INESC TEC](https://www.inesctec.pt/en) and [Hood College](https://www.hood.edu) researchers in the AI and distributed storage fields, and by including researchers from [TACC](https://www.tacc.utexas.edu) and [MACC](https://macc.fccn.pt) with experience on managing HPC infrastructures, the project will produce new high quality research findings and advance the state-of-the-art for storage solutions currently deployed at HPC centers. 
+The project’s research output will focus on advancing the scientific and technological frontier through high-impact publications. At the same time, *Invisible Storage* aims to demonstrate its relevance and performance not only in sensitive domains like healthcare but also in high-demand environments such as High-Performance Computing (HPC) infrastructures. The ultimate goal is to expand pilot use cases across institutions and convert these into production-ready deployments, paving the way for broader market adoption.
+
+By combining the expertise of the software engineers at [Invisible Lab](https://invisiblelab.dev) with the highly skilled researchers in distributed storage at [INESC TEC](https://www.inesctec.pt/en), the project will deliver innovative results that push forward the state of the art and bridge the gap between academic research and real-world impact.
+
+ 
 
 ---
 
