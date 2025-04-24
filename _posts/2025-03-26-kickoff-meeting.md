@@ -1,5 +1,6 @@
 ---
 title: Kick-off Meeting
+date: 2025-26-03
 description:
 background: /assets/img/pastor-news.jpg
 author: [Marta]
