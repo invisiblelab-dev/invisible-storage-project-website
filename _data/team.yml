@@ -1,17 +1,17 @@
 # Project team members listed below will appear on the /team page
 
-- name: João Paulo
-  role: Project Coordinator # Will appear next to name
-  image: assets/img/jtpaulo.jpg # Can be external link
-  description: > # Can be Markdown
-    [Assistant Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo) at INESC TEC and U. Minho.
-
-    - name: Rui Ribeiro
+- name: Rui Ribeiro
   role: Researcher # Will appear next to name
   image: assets/img/rui.jpg # Can be external link
   description: > # Can be Markdown
     Researcher at MACC.
 
+- name: João Paulo
+  role: Project Coordinator # Will appear next to name
+  image: assets/img/jtpaulo.jpg # Can be external link
+  description: > # Can be Markdown
+    [Assistant Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo) at INESC TEC and U. Minho.
+    
 - name: Rúben Adão
   role: Researcher # Will appear next to name
   image: assets/img/ruben.jpg # Can be external link
