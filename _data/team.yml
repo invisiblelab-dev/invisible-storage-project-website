@@ -4,7 +4,7 @@
   role: Researcher # Will appear next to name
   image: assets/img/rui.jpg # Can be external link
   description: > # Can be Markdown
-    Researcher at MACC.
+    Head of Engineering at Invisible Lab.
 
 
 - name: João Paulo
