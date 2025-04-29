@@ -4,11 +4,9 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: >
-      [<img src="/assets/img/inesc.png" alt="drawing" width="160">](https://www.inesctec.pt/en)
-      [<img src="/assets/img/tacc.png" alt="drawing" width="110"><br><br>](https://www.tacc.utexas.edu)
-      &nbsp;&nbsp;&nbsp;[<img src="/assets/img/macc.png" alt="drawing" width="130">](https://macc.fccn.pt)
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      [<img src="/assets/img/hood.png" alt="drawing" width="110"><br><br>](https://www.hood.edu)
+      [<img src="/assets/img/inesc.png" alt="INESC" width="160">](https://www.inesctec.pt/en)
+      [<img src="/assets/img/invisible.png" alt="InvisibleLab" width="110"><br><br>](https://invisiblelab.dev)
+      
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by the Portugal 2030 program and co-funded by the European Union's funds.
