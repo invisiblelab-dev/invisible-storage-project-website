@@ -1,7 +1,7 @@
 ---
 title: About
 description:
-background: /assets/img/purpleheader.png
+background: /assets/img/pinkheader.png
 permalink: /about/
 ---
 
