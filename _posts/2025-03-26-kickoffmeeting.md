@@ -2,8 +2,8 @@
 title: Kick-off Meeting
 date: 2025-03-26
 description:
-background: /assets/img/pastor-news.jpg
-author: [Marta]
+background: /assets/img/portugal2030.png
+author: [Invisible Lab]
 categories: [Meetings]
 ---
 
