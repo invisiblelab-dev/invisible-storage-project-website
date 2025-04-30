@@ -2,7 +2,7 @@
 layout: home
 title: <p style="font-size:26px;">Invisible Storage</p>
 description: <p style="font-size:22px;">A Scalable Distributed Storage System for Data-Intensive Applications</p>
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /invisible-storage-project-website/assets/img/blueheader.png
 permalink: /
 ---
 
