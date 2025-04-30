@@ -10,7 +10,7 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by the Portugal 2030 program and co-funded by the European Union's funds.
-      <br><img src="invisible-storage-project-website/assets/img/portugal2030.png" alt="Portugal 2030" width="60"><img src="invisible-storage-project-website/assets/img/uniaoeuropeia.png" alt="União Europeia" width="120">
+      <br><img src="/invisible-storage-project-website/assets/img/portugal2030.png" alt="Portugal 2030" width="60"><img src="/invisible-storage-project-website/assets/img/uniaoeuropeia.png" alt="União Europeia" width="120">
      
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
