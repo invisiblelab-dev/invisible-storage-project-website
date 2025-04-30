@@ -1,7 +1,7 @@
 ---
 title: About
 description:
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/purpleheader.png
 permalink: /about/
 ---
 
