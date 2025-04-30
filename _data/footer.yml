@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: >
-      [<img src="/assets/img/inesc.png" alt="INESC" width="160">](https://www.inesctec.pt/en)
+      [<img src="/invisible-storage-project-website/assets/img/inesc.png" alt="INESC" width="160">](https://www.inesctec.pt/en)
       [<img src="/assets/img/invisible.png" alt="InvisibleLab" width="110"><br><br>](https://invisiblelab.dev)
       
 
