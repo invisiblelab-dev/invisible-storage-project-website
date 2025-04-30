@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: Invisible Storage                  # Title in top navigation bar (navbar) and <head>
-description: PAStor website # Site description in <head>
+description: Invisible Storage website # Site description in <head>
 author: Invisible Lab                  # Used for copyright statement in footer
 url: "https://pastor-project.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
