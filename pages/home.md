@@ -1,7 +1,6 @@
 ---
 layout: home
-title: <img src="/invisible-storage-project-website/assets/img/logo2.png" alt="drawing" width="250">
-description: <p style="font-size:22px;">Programmable and Adaptable Storage for AI-oriented HPC Ecosystems</p>
+description: <p style="font-size:22px;">A scalable distributed storage system for data-intensive applications</p>
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
