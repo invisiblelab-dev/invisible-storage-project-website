@@ -1,6 +1,6 @@
 ---
 layout: home
-title: <p style="font-size:32px;">Invisible Storage</p>
+title: <p style="font-size:36px;">Invisible Storage</p>
 description: <p style="font-size:22px;">A Scalable Distributed Storage System for Data-Intensive Applications</p>
 background: /assets/img/pinkheader.png
 permalink: /
