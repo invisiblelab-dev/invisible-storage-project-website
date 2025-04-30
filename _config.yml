@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: PAStor                  # Title in top navigation bar (navbar) and <head>
+title: Invisible Storage                  # Title in top navigation bar (navbar) and <head>
 description: PAStor website # Site description in <head>
 author: Invisible Lab                  # Used for copyright statement in footer
 url: "https://pastor-project.github.io"  # No slash at the end
