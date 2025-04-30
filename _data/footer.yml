@@ -5,12 +5,12 @@
 columns:
   - description: >
       [<img src="/invisible-storage-project-website/assets/img/inesc.png" alt="INESC" width="160">](https://www.inesctec.pt/en)
-      [<img src="/assets/img/invisible.png" alt="InvisibleLab" width="110"><br><br>](https://invisiblelab.dev)
+      [<img src="/invisible-storage-project-website/assets/img/invisible.png" alt="InvisibleLab" width="110"><br><br>](https://invisiblelab.dev)
       
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by the Portugal 2030 program and co-funded by the European Union's funds.
-      <br><img src="/assets/img/portugal2030.png" alt="Portugal 2030" width="60"><img src="/assets/img/uniaoeuropeia.png" alt="União Europeia" width="120">
+      <br><img src="invisible-storage-project-website/assets/img/portugal2030.png" alt="Portugal 2030" width="60"><img src="invisible-storage-project-website/assets/img/uniaoeuropeia.png" alt="União Europeia" width="120">
      
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
