@@ -1,7 +1,7 @@
 ---
 layout: home
-title: <p style="font-size:36px;">Invisible Storage</p>
-description: <p style="font-size:22px;">A Scalable Distributed Storage System for Data-Intensive Applications</p>
+title: <p style="font-size:36px;">BCD.S+M</p>
+description: <p style="font-size:22px;">Modular Blockchain Data Storage and Management System with AI</p>
 background: /assets/img/pinkheader.png
 permalink: /
 ---
