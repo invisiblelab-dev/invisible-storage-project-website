@@ -5,6 +5,13 @@
   image: assets/img/cruz.jpeg # Can be external link
   description: > # Can be Markdown
     Partner at Invisible Lab.
+
+
+- name: João Paulo
+  role: Project Coordinator from INESC TEC
+  image: assets/img/jtpaulo.jpg
+  description: >
+    Senior Researcher at INESC TEC and Assistant Professor at U. Minho.
     
 
 - name: Rui Ribeiro
@@ -43,17 +50,19 @@
 
 
 - name: Marta Bonjardim
-  role: Project Manager # Will appear next to name
+  role: Product Manager # Will appear next to name
   image: assets/img/marta.jpg # Can be external link
   description: > # Can be Markdown
     Product Manager at Invisible Lab.   
 
-    
-- name: João Paulo
-  role: Project Coordinator
-  image: assets/img/jtpaulo.jpg
-  description: >
-    [Senior Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo) at INESC TEC and U. Minho.
+
+- name: Tânia Esteves
+  role: Assistant Researcher # Will appear next to name
+  image: assets/img/taniastorage.jpg # Can be external link
+  description: > # Can be Markdown
+    Researcher at INESC TEC.
+
+
 
 
 
