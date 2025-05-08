@@ -60,7 +60,7 @@
   role: Assistant Researcher # Will appear next to name
   image: assets/img/taniastorage.jpg # Can be external link
   description: > # Can be Markdown
-    Researcher at INESC TEC.
+    [Researcher](https://www.inesctec.pt/en/people/tania-conceicao-araujo#intro) at INESC TEC.
 
 
 
