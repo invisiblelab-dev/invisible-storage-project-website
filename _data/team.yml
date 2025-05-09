@@ -63,7 +63,18 @@
     [Researcher](https://www.inesctec.pt/en/people/tania-conceicao-araujo#intro) at INESC TEC.
 
 
+- name: Cláudia Brito
+  role: Assistant Researcher # Will appear next to name
+  image: assets/img/claudiastorage.jpg # Can be external link
+  description: > # Can be Markdown
+    [Researcher](https://www.inesctec.pt/en/people/claudia-vanessa-brito#intro) at INESC TEC.
 
+
+- name: Ricardo Macedo
+  role: Assistant Researcher # Will appear next to name
+  image: assets/img/rgmacedostorage.jpg # Can be external link
+  description: > # Can be Markdown
+    [Researcher](https://www.inesctec.pt/en/people/ricardo-goncalves-macedo#intro) at INESC TEC. 
 
 
 
