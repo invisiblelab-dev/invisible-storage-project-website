@@ -126,14 +126,14 @@
     MSc Student at INESC TEC and U.Minho.
 
 
-  - name: Filipe Pereira
+- name: Filipe Pereira
   role: Researcher # Will appear next to name
   image: assets/img/filipepstorage.jpg # Can be external link
   description: > # Can be Markdown
     MSc Student at INESC TEC and U.Minho.
 
 
- - name: Daniel Pereira
+- name: Daniel Pereira
   role: Researcher # Will appear next to name
   image: assets/img/danielpstorage.jpeg # Can be external link
   description: > # Can be Markdown
