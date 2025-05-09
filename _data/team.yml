@@ -9,7 +9,7 @@
 
 - name: João Paulo
   role: Project Coordinator from INESC TEC
-  image: assets/img/jtpaulo.jpg
+  image: assets/img/joaopaulostorage.png
   description: >
     [Senior Researcher](https://www.inesctec.pt/en/people/joao-tiago-paulo#intro) at INESC TEC and Assistant Professor at U. Minho.
     
@@ -44,7 +44,7 @@
 
 - name: Filipe Costa
   role: Researcher # Will appear next to name
-  image: assets/img/filipe.jpg # Can be external link
+  image: assets/img/filipestorage.png # Can be external link
   description: > # Can be Markdown
     [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
