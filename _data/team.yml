@@ -86,7 +86,7 @@
 
 - name: Rúben Adão
   role: Researcher # Will appear next to name
-  image: assets/img/rybenstorage.jpg # Can be external link
+  image: assets/img/rubenstorage.jpg # Can be external link
   description: > # Can be Markdown
     PhD Student at INESC TEC and U.Minho.
 
@@ -114,6 +114,6 @@
 
 - name: André Ferreira
   role: Researcher # Will appear next to name
-  image: assets/img/goncalosstorage.jpg # Can be external link
+  image: assets/img/alucenastorage.png # Can be external link
   description: > # Can be Markdown
     MSc Student at INESC TEC and U.Minho.    
