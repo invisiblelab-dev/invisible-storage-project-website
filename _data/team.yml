@@ -4,7 +4,7 @@
   role: Project Coordinator # Will appear next to name
   image: assets/img/cruz.jpeg # Can be external link
   description: > # Can be Markdown
-    Partner at Invisible Lab.
+    [Partner](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
 
 - name: João Paulo
@@ -18,42 +18,42 @@
   role: Researcher # Will appear next to name
   image: assets/img/rui.jpg # Can be external link
   description: > # Can be Markdown
-    Head of Engineering at Invisible Lab.
+    [Head of Engineering](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
 
 - name: Vicente Muñoz
   role: Researcher # Will appear next to name
   image: assets/img/vicente.jpg # Can be external link
   description: > # Can be Markdown
-    Software Engineer at Invisible Lab.
+    [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
 
 - name: João Lopes
   role: Researcher # Will appear next to name
   image: assets/img/joao.jpg # Can be external link
   description: > # Can be Markdown
-    Software Engineer at Invisible Lab.
+    [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
 
 - name: Tiago Gomes
   role: Researcher # Will appear next to name
   image: assets/img/tiago.png # Can be external link
   description: > # Can be Markdown
-    Software Engineer at Invisible Lab.  
+    [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.  
 
 
 - name: Filipe Costa
   role: Researcher # Will appear next to name
   image: assets/img/filipe.jpg # Can be external link
   description: > # Can be Markdown
-    Software Engineer at Invisible Lab.
+    [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
 
 - name: Marta Bonjardim
   role: Product Manager # Will appear next to name
   image: assets/img/marta.jpg # Can be external link
   description: > # Can be Markdown
-    Product Manager at Invisible Lab.   
+   [Product Manager](https://invisiblelab.dev/about-us/) at Invisible Lab.   
 
 
 - name: Tânia Esteves
