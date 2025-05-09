@@ -57,27 +57,63 @@
 
 
 - name: Tânia Esteves
-  role: Assistant Researcher # Will appear next to name
+  role: Researcher # Will appear next to name
   image: assets/img/taniastorage.jpg # Can be external link
   description: > # Can be Markdown
-    [Researcher](https://www.inesctec.pt/en/people/tania-conceicao-araujo#intro) at INESC TEC.
+    [Assistant Researcher](https://www.inesctec.pt/en/people/tania-conceicao-araujo#intro) at INESC TEC.
 
 
 - name: Cláudia Brito
-  role: Assistant Researcher # Will appear next to name
+  role: Researcher # Will appear next to name
   image: assets/img/claudiastorage.jpg # Can be external link
   description: > # Can be Markdown
-    [Researcher](https://www.inesctec.pt/en/people/claudia-vanessa-brito#intro) at INESC TEC.
+    [Assistant Researcher](https://www.inesctec.pt/en/people/claudia-vanessa-brito#intro) at INESC TEC.
 
 
 - name: Ricardo Macedo
-  role: Assistant Researcher # Will appear next to name
-  image: assets/img/rgmacedostorage.jpg # Can be external link
+  role: Researcher # Will appear next to name
+  image: assets/img/rgmacedo.jpg # Can be external link
   description: > # Can be Markdown
-    [Researcher](https://www.inesctec.pt/en/people/ricardo-goncalves-macedo#intro) at INESC TEC. 
+    [Assistant Researcher](https://www.inesctec.pt/en/people/ricardo-goncalves-macedo#intro) at INESC TEC. 
 
 
+- name: Mariana Miranda
+  role: Researcher # Will appear next to name
+  image: assets/img/marianastorage.jpg # Can be external link
+  description: > # Can be Markdown
+    [PhD Student](https://www.inesctec.pt/en/people/mariana-martins-miranda) at INESC TEC and U.Minho.
 
 
+- name: Rúben Adão
+  role: Researcher # Will appear next to name
+  image: assets/img/rybenstorage.jpg # Can be external link
+  description: > # Can be Markdown
+    PhD Student at INESC TEC and U.Minho.
 
 
+- name: Pedro Peixoto
+  role: Researcher # Will appear next to name
+  image: assets/img/pedrostorage.jpg # Can be external link
+  description: > # Can be Markdown
+    PhD Student at INESC TEC and U.Minho.  
+
+
+- name: Bruno Pereira
+  role: Researcher # Will appear next to name
+  image: assets/img/brunostorage.jpg # Can be external link
+  description: > # Can be Markdown
+    PhD Student at INESC TEC and U.Minho.
+
+
+- name: Gonçalo Sousa
+  role: Researcher # Will appear next to name
+  image: assets/img/goncalosstorage.jpg # Can be external link
+  description: > # Can be Markdown
+    MSc Student at INESC TEC and U.Minho.
+
+
+- name: André Ferreira
+  role: Researcher # Will appear next to name
+  image: assets/img/goncalosstorage.jpg # Can be external link
+  description: > # Can be Markdown
+    MSc Student at INESC TEC and U.Minho.    
