@@ -117,3 +117,31 @@
   image: assets/img/alucenastorage.png # Can be external link
   description: > # Can be Markdown
     MSc Student at INESC TEC and U.Minho.    
+
+
+- name: Carlos Machado
+  role: Researcher # Will appear next to name
+  image: assets/img/carlosmstorage.jpg # Can be external link
+  description: > # Can be Markdown
+    MSc Student at INESC TEC and U.Minho.
+
+
+ - name: Carlos Machado
+  role: Researcher # Will appear next to name
+  image: assets/img/carlosmstorage.jpg # Can be external link
+  description: > # Can be Markdown
+    MSc Student at INESC TEC and U.Minho.
+
+
+  - name: Filipe Pereira
+  role: Researcher # Will appear next to name
+  image: assets/img/filipepstorage.jpg # Can be external link
+  description: > # Can be Markdown
+    MSc Student at INESC TEC and U.Minho.
+
+
+ - name: Daniel Pereira
+  role: Researcher # Will appear next to name
+  image: assets/img/danielpstorage.jpeg # Can be external link
+  description: > # Can be Markdown
+    MSc Student at INESC TEC and U.Minho.   
