@@ -1,29 +1,30 @@
-// Team members
-
+// Team grid layout
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); // fits 2 per row comfortably
-  gap: $grid-gutter-width;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
   margin-top: 2rem;
-  max-width: 100%; // prevents overflow
 }
 
+// Individual team cards
 .team-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
   background: #fff;
   padding: 1.5rem;
   border-radius: 0.75rem;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
 }
 
+// Team member content
 .team-member {
-  margin-bottom: $grid-gutter-width;
-
   & > img {
-    height: 110px;
-    width: 110px;
+    height: 100px;
+    width: 100px;
     border-radius: 100px;
     border: 3px solid $gray-200;
-    object-fit: cover;
   }
 
   .orcid {
