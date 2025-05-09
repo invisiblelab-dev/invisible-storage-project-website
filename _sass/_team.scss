@@ -2,7 +2,7 @@
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); // wider cards
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); // wider cards
   gap: $grid-gutter-width * 1.2; // a bit more spacing between cards
   margin-top: 2rem;
 }
