@@ -2,26 +2,27 @@
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: $grid-gutter-width;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); // wider cards
+  gap: $grid-gutter-width * 1.2; // a bit more spacing between cards
   margin-top: 2rem;
 }
 
 .team-card {
   background: #fff;
-  padding: 1.25rem;
-  border-radius: 0.5rem;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  padding: 2rem; // more internal spacing
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
 }
 
 .team-member {
   margin-bottom: $grid-gutter-width;
 
   & > img {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     border-radius: 100px;
     border: 3px solid $gray-200;
+    object-fit: cover;
   }
 
   .orcid {
@@ -30,4 +31,3 @@
     margin-top: -3px;
   }
 }
-
