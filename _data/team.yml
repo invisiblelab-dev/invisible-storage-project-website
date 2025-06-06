@@ -23,14 +23,14 @@
 
 - name: Vicente Muñoz
   role: Researcher # Will appear next to name
-  image: assets/img/vicente.jpg # Can be external link
+  image: assets/img/vicente.png # Can be external link
   description: > # Can be Markdown
     [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
 
 - name: João Lopes
   role: Researcher # Will appear next to name
-  image: assets/img/joao.jpg # Can be external link
+  image: assets/img/jnuno.jpg # Can be external link
   description: > # Can be Markdown
     [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
