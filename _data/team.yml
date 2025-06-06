@@ -30,7 +30,7 @@
 
 - name: João Lopes
   role: Researcher # Will appear next to name
-  image: assets/img/jnuno.jpg # Can be external link
+  image: assets/img/jnuno.png # Can be external link
   description: > # Can be Markdown
     [Software Engineer](https://invisiblelab.dev/about-us/) at Invisible Lab.
 
