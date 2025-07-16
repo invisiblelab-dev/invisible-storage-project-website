@@ -13,4 +13,4 @@ categories: [Meetings]
     
     We are developing a large-scale distributed system to support massive data volumes—critical, for instance, for training AI models—while ensuring security, data protection and immutability. By the end of 2025, we aim to launch the first paid pilot programs with clients.
 
-  This was also shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7308466489395712000).
+  This was also shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351260737937256463).
