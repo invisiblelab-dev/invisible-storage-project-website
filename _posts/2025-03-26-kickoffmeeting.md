@@ -1,5 +1,5 @@
 ---
-title: Kick-off Meeting
+title: Meeting
 date: 2025-03-26
 description:
 background: /assets/img/NORTE2030.png
@@ -7,7 +7,7 @@ author: [Invisible Lab]
 categories: [Meetings]
 ---
 
-- On the 26th of March, we had the first kick-off — in-person — meeting between [Invisible Lab](https://invisiblelab.dev) and [INESC TEC](https://www.inesctec.pt/en) at University of Minho. The goal was to align objectives and map out the path for the BCD.S+M project that secured 1.2M€ in funding under the [**Portugal 2030 program**](https://drive.google.com/file/d/1blakHFL5KAPyrGsOl1c36D_Fn9MHsvKF/view?usp=sharing).
+- On the 26th of March, we had the first in-person meeting between [Invisible Lab](https://invisiblelab.dev) and [INESC TEC](https://www.inesctec.pt/en) at University of Minho. The goal was to align objectives and map out the path for the BCD.S+M project that secured 1.2M€ in funding under the [**Portugal 2030 program**](https://drive.google.com/file/d/1blakHFL5KAPyrGsOl1c36D_Fn9MHsvKF/view?usp=sharing).
     
     **The challenge** is storing and processing data without compromising performance, security and compliance — which will be one of the biggest challenges of the next decade.
     
