@@ -1,4 +1,4 @@
-# _data/output.yml
+# _data/publications.yml
 - title: "Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy"
   authors: "Adão, R., Wu, Z., Zhou, C., Balmau, O., Paulo, J., & Macedo, R."
   venue: "Proceedings of the VLDB Endowment"
@@ -24,21 +24,18 @@
   authors: "Oliveira, R. P., Esteves, T., & Paulo, J."
   venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
   year: 2025
-  in_proceedings: false
   url: "https://rldm.invisiblelab.dev/papers/speed-kills-revisiting-data-deduplication-for-modern-storage-devices.pdf"
 
 - title: "One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC"
   authors: "Ferreira, A., Sousa, G., Ruhela, A., Cazes, J., Bhimani, J., Rangaswami, R., Macedo, R., Brito, C., & Paulo, J."
   venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
   year: 2025
-  in_proceedings: false
   url: "https://rldm.invisiblelab.dev/papers/one-does-not-simply-cache-a-study-on-distributed-caches-for-ai-training-in-hpc.pdf"
 
 - title: "Idiosyncrasies of Programmable Caching Engines"
   authors: "Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., Brito, C., Paulo, J., & Macedo, R."
   venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
   year: 2025
-  in_proceedings: false
   url: "https://rldm.invisiblelab.dev/papers/idiosyncrasies-of-programmable-caching-engines.pdf"
   arxiv: "https://arxiv.org/abs/2603.14357"
 
