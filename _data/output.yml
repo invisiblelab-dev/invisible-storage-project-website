@@ -1,0 +1,50 @@
+# _data/output.yml
+- title: "Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy"
+  authors: "Adão, R., Wu, Z., Zhou, C., Balmau, O., Paulo, J., & Macedo, R."
+  venue: "Proceedings of the VLDB Endowment"
+  year: 2025
+  doi: "10.14778/3746405.3746414"
+  url: "https://doi.org/10.14778/3746405.3746414"
+
+- title: "No Two Snowflakes Are Alike: Studying eBPF Libraries' Performance, Fidelity and Resource Usage"
+  authors: "Machado, C., Gião, B., Amaro, S., Matos, M., Paulo, J., & Esteves, T."
+  venue: "Workshop on eBPF and Kernel Extensions (eBPF'25), colocated with SIGCOMM. ACM"
+  year: 2025
+  doi: "10.1145/3748355.3748364"
+  url: "https://doi.org/10.1145/3748355.3748364"
+
+- title: "PolyLayer: the next 700 storage configurations"
+  authors: "Lopes, J., Pereira, B., Pereira, F., Muñoz, V., Gomes, T., Ribeiro, R., Costa, F., Bonjardim, M., Cruz, F., Paulo, J., & Maia, F."
+  venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
+  year: 2025
+  doi: "10.1109/SRDS69199.2025.00052"
+  url: "https://doi.org/10.1109/SRDS69199.2025.00052"
+
+- title: "Speed Kills: Revisiting Data Deduplication for Modern Storage Devices"
+  authors: "Oliveira, R. P., Esteves, T., & Paulo, J."
+  venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
+  year: 2025
+  in_proceedings: false
+  url: "https://rldm.invisiblelab.dev/papers/speed-kills-revisiting-data-deduplication-for-modern-storage-devices.pdf"
+
+- title: "One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC"
+  authors: "Ferreira, A., Sousa, G., Ruhela, A., Cazes, J., Bhimani, J., Rangaswami, R., Macedo, R., Brito, C., & Paulo, J."
+  venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
+  year: 2025
+  in_proceedings: false
+  url: "https://rldm.invisiblelab.dev/papers/one-does-not-simply-cache-a-study-on-distributed-caches-for-ai-training-in-hpc.pdf"
+
+- title: "Idiosyncrasies of Programmable Caching Engines"
+  authors: "Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., Brito, C., Paulo, J., & Macedo, R."
+  venue: "Workshop on Reliable Large-scale Data Management (RLDM'25), colocated with SRDS"
+  year: 2025
+  in_proceedings: false
+  url: "https://rldm.invisiblelab.dev/papers/idiosyncrasies-of-programmable-caching-engines.pdf"
+  arxiv: "https://arxiv.org/abs/2603.14357"
+
+- title: "Holpaca: Holistic and Adaptable Cache Management for Shared Environments"
+  authors: "Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., Brito, C., Paulo, J., & Macedo, R."
+  venue: "17th ACM/SPEC International Conference on Performance Engineering (ICPE)"
+  year: 2026
+  doi: "10.1145/3777884.3797013"
+  url: "https://doi.org/10.1145/3777884.3797013"
